@@ -993,6 +993,9 @@
 .logo a img{
      border-radius: 50%;
 }
+.text-img{
+     max-width: 700px;
+}
 .text-img figure img{
      border-radius: 16px;
 }
